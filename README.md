@@ -20,4 +20,4 @@
 | **Webcam**       | 720p IR Hybrid with ToF (Windows Hello)       | ✅              |
 | **Battery**      | 75Wh                                          | ✅ Charging monitpring              |
 
-*
+/*
