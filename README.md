@@ -28,3 +28,7 @@
 - ✅ = Fully functional
 - ⚠️ = Partially functional/limited
 - ❌ = Not working
+
+| Ports            | Specification                                                                 | Status           |
+|------------------|-------------------------------------------------------------------------------|------------------|
+| **I/O Panel**    | <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px"> <div>🔋<br>USB-C PD</div> <div>🖥️<br>HDMI</div> <div>📷<br>SD Card</div> <div>🎧<br>Audio</div> <div>⚡<br>2× USB-A</div> </div> | <div style="color:#2ecc71">✅ Fully Operational</div> |
