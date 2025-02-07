@@ -10,7 +10,7 @@
 | **💾 Storage**          | 1024GB WD_BLACK SN850 NVMe SSD                 | ✅ <sup>1</sup> |
 | **🎮 Graphics**         | AMD Radeon™ Integrated Graphics                | ✅ <sup>2</sup> |
 | **🖥️ Display**         | 16.0" IPS 2560×1600 (2.5K) @60Hz               | ✅        |
-| **📡 Wireless**         | Intel® Wi-Fi 6E AX210 + BT 5.3                 | ✅ d <sup>3</sup> |
+| **📡 Wireless**         | Intel® Wi-Fi 6E AX210 + BT 5.3                 | ✅  <sup>3</sup> |
 | **🔌 Ports**            |                                                |                         |
 | ⎇ **USB-C**             | `PD 20W` • `DP 1.4` • `USB 3.2 Gen2`           | ✅    |
 | ⎇ **HDMI 1.4b**         | 4K@30Hz Output                                 | ⚠️ Resolution Limited  |
