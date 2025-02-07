@@ -1,34 +1,33 @@
 # Lenovo IdeaPad 5 Pro-16ACH6 (82L500S0RE)
 
-## Technical Specifications
+## Technical Specifications & Compatibility
 
-| Component        | Specification                                                                 | Status           |
-|------------------|-------------------------------------------------------------------------------|------------------|
-| Model            | IdeaPad 5 Pro-16ACH6 (82L500S0RE)                                             | ✅ Fully Working |
-| Processor        | AMD Ryzen™ 7 5800H (8 cores, 16 threads, 3.2-4.4 GHz)                         | ✅              |
-| Memory           | 16GB DDR4 3200MHz (single-channel)                                            | ✅              |
-| Storage          | 512GB PCIe NVMe SSD                                                           | ✅              |
-| Graphics         | AMD Radeon™ Integrated Graphics                                               | ✅              |
-| Display          | 16.0" IPS 2560×1600 (2.5K), 60Hz                                              | ✅              |
-| Wireless         | Wi-Fi 6 (802.11ax 2x2) + Bluetooth 5.1                                        | ✅              |
-| Ports            | - USB-C 3.2 Gen2 (PD 20V, DisplayPort 1.4)<br>- 2× USB-A 3.2 Gen2<br>- HDMI 1.4b<br>- SD card reader<br>- 3.5mm combo jack | ✅ (HDMI limited to 4K30) |
-| Camera           | 720p HD IR Hybrid with ToF (Windows Hello support)                            | ✅              |
-| Battery          | 75Wh                                                                          | ✅              |
-| OS               | Pre-installed: Windows 11 Home                                                | ✅              |
+| Component        | Specification                                  | Status           |
+|------------------|------------------------------------------------|------------------|
+| **Model**        | IdeaPad 5 Pro-16ACH6 (82L500S0RE)              | ✅ Fully Working |
+| **Processor**    | AMD Ryzen™ 7 5800H (8C/16T, 3.2-4.4 GHz)       | ✅              |
+| **Memory**       | 16GB DDR4 3200MHz (Single-Channel)             | ✅              |
+| **Storage**      | 512GB PCIe NVMe SSD                            | ✅              |
+| **Graphics**     | AMD Radeon™ Integrated Graphics                | ✅              |
+| **Display**      | 16.0" IPS 2560×1600 (2.5K), 60Hz               | ✅              |
+| **Wireless**     | Wi-Fi 6 (802.11ax) + Bluetooth 5.1             | ✅              |
+| **Ports**        |                                                |                  |
+| ⎇ **USB-C**      | • PD 20V Charging<br>• DisplayPort 1.4<br>• Data/Video | ✅              |
+| ⎇ **HDMI 1.4b**  | 4K@30Hz Output                                | ⚠️ 4K Limited  |
+| ⎇ **USB-A**      | 2× USB 3.2 Gen2 (10Gbps)                      | ✅✅           |
+| ⎇ **SD Reader**  | UHS-I Compatible                              | ✅              |
+| ⎇ **3.5mm Jack** | Headphone/Mic Combo                           | ✅              |
+| **Webcam**       | 720p IR Hybrid with ToF (Windows Hello)       | ✅              |
+| **Battery**      | 75Wh                                          | ✅              |
+| **OS**           | Windows 11 Home (Pre-installed)               | ✅              |
 
-## Notes & Limitations
-
-- **USB-C Power Delivery**: Only supports 20V charging
-- **HDMI Output**: Limited to 4K@30Hz via HDMI 1.4b
-- **SD Card Reader**: UHS-I speeds (max ~104MB/s)
-- **Biometrics**: IR camera supports facial recognition
-- **Display Alt Modes**: USB-C to DisplayPort works at full resolution/refresh rate
-
-## Compatibility Status Key
+## Status Key
 - ✅ = Fully functional
-- ⚠️ = Partially functional/limited
-- ❌ = Not working
+- ⚠️ = Functional with limitations
+- ❌ = Non-functional (not present here)
 
-| Ports            | Specification                                                                 | Status           |
-|------------------|-------------------------------------------------------------------------------|------------------|
-| **I/O Panel**    | <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px"> <div>🔋<br>USB-C PD</div> <div>🖥️<br>HDMI</div> <div>📷<br>SD Card</div> <div>🎧<br>Audio</div> <div>⚡<br>2× USB-A</div> </div> | <div style="color:#2ecc71">✅ Fully Operational</div> |
+## Important Notes
+1. **HDMI Limitation**: Maximum 4K@30Hz due to HDMI 1.4b specification
+2. **USB-C Charging**: Requires 20V PD-compatible charger
+3. **SD Card Reader**: Limited to UHS-I speeds (~104MB/s)
+4. **Biometric Login**: IR camera supports Windows Hello facial recognition
