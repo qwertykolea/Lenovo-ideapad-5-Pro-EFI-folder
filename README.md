@@ -4,10 +4,10 @@
 
 | Component               | Specification                                  | Status                  |
 |-------------------------|------------------------------------------------|-------------------------|
-| **📦 Model**            | IdeaPad 5 Pro-16ACH6 (82L500S0RE)              | ✅ Fully Operational   |
-| **⚡ Processor**        | AMD Ryzen™ 7 5800H (8C/16T, 3.2-4.4 GHz)       | ✅ Native Power Management |
-| **🧠 Memory**           | 16GB DDR4 3200MHz (Single-Channel)             | ✅ Stable @ 3200MHz    |
-| **💾 Storage**          | 1024GB WD_BLACK SN850 NVMe SSD                 | ✅ Trim Enabled <sup>1</sup> |
+| **📦 Model**            | IdeaPad 5 Pro-16ACH6 (82L500S0RE)              | ✅    |
+| **⚡ Processor**        | AMD Ryzen™ 7 5800H (8C/16T, 3.2-4.4 GHz)       | ✅ |
+| **🧠 Memory**           | 16GB DDR4 3200MHz (Single-Channel)             | ✅    |
+| **💾 Storage**          | 1024GB WD_BLACK SN850 NVMe SSD                 | ✅  |
 | **🎮 Graphics**         | AMD Radeon™ Integrated Graphics                | ✅ via NootedRed.kext <sup>2</sup> |
 | **🖥️ Display**         | 16.0" IPS 2560×1600 (2.5K) @60Hz               | ✅ HiDPI Scaling        |
 | **📡 Wireless**         | Intel® Wi-Fi 6E AX210 + BT 5.3                 | ✅ HeliPort Required <sup>3</sup> |
